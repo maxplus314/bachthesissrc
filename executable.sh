@@ -1,0 +1,1 @@
+LD_LIBRARY_PATH=ton_blockchain_ton_mini ./executable_

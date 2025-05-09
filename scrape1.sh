@@ -1,0 +1,1 @@
+python3 src/scraper.py 2025-01-20 2025-01-27 1000

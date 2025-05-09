@@ -1,0 +1,1 @@
+ulimit -v 250000 && LD_LIBRARY_PATH=ton_blockchain_ton_mini python3 src/run_tests.py
